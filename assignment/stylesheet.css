@@ -8,10 +8,19 @@ h2 {
 }
 
 img {
-    width: 50%;
+    display: block;
+    width: 70%;
+    margin-left: auto;
+    margin-right: auto;
 }
 
 h3 {
     background-color: lightslategray;
     color: darkblue;
+}
+
+div {
+    margin: 70px;
+    border: 3px solid black;
+    text-align: center;
 }
